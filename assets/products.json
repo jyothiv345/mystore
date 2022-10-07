@@ -1,0 +1,56 @@
+[
+    {
+      "productId":1,
+      "productName":"Honor 9C - Mobile Phone",
+      "productType":"Mobile",
+      "productPrice":20000,
+      "productImageUrl":"https://th.bing.com/th/id/OIP.1hRc5bsBOYA5SCgL9R1MmAHaIk?pid=ImgDet&w=152&h=176&c=7&dpr=1.65",
+      "productMDate":"2021,6,26"
+
+    },
+    {
+      "productId":2,
+      "productName":"2 Door Mini Fridge",
+      "productType":"Fridge",
+      "productPrice":20000,
+      "productImageUrl":"https://th.bing.com/th/id/OIP.lv9ac9CKDcuIK9KoXMyyWwAAAA?pid=ImgDet&w=152&h=152&c=7&dpr=1.65",
+      "productMDate":"2021,6,26"
+
+    },
+    {
+      "productId":3,
+      "productName":"TCL 32 Full HD LED TV",
+      "productType":"TV",
+      "productPrice":20000,
+      "productImageUrl":"https://th.bing.com/th/id/OIP.nUosOC2WRAskKFNIb2PqNwHaGh?pid=ImgDet&w=152&h=134&c=7&dpr=1.65",
+      "productMDate":"2021,6,26"
+
+    },
+    {
+      "productId":4,
+      "productName":"Washing Machine in White",
+      "productType":"Washing Machine",
+      "productPrice":20000,
+      "productImageUrl":"https://th.bing.com/th/id/OIP.PeR_xjZrSPWPQWrSSA59PAHaJ4?pid=ImgDet&w=152&h=202&c=7&dpr=1.65",
+      "productMDate":"2021,6,26"
+
+    },
+    {
+      "productId":5,
+      "productName":"LG 32 L Convection Microwavee",
+      "productType":"Microwavee",
+      "productPrice":20000,
+      "productImageUrl":"https://www.lg.com/in/images/microwave-ovens/md06212716/gallery/Medium_01.jpg",
+      "productMDate":"2021,6,26"
+
+    },
+    {
+      "productId":6,
+      "productName":"SOFA",
+      "productType":"Mobile",
+      "productPrice":20000,
+      "productImageUrl":"https://sopha.co.uk/wp-content/uploads/2019/07/Popcorn-Thumb.jpg",
+      "productMDate":"2021,6,26"
+
+    }
+  ]
